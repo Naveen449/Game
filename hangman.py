@@ -2,9 +2,7 @@
 import random 
 
 # Step2: make a list if word
-words = ['orange','lime','lemon','melon','grape','mango']
-
-#words = ['apple','banana','orange','coconut','strawberry','lime','grapefruit','lemon','kumquat','blueberry','melon']
+words = ['apple','banana','orange','coconut','strawberry','lime','grapefruit','lemon','kumquat','blueberry','melon']
 
 while True:
     #Step 3
